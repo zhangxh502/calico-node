@@ -1,1 +1,1 @@
-From docker.io/calico/node:v3.7.3
+From quay.io/calico/node:v3.15.2
